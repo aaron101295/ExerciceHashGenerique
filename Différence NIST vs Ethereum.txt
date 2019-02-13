@@ -1,0 +1,1 @@
+SHA-3 est un sous-ensemble de la grande famille de primitifs cryptographiques Keccak utilisée dans Ethereum. Il diffère de l'algorithme NIST car NIST a spécifié comment compléter le message lorsque la longueur de celui-ci n'est pas égale à la taille requise en entrée.
